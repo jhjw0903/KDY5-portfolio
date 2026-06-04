@@ -10,8 +10,8 @@ html {
 
 body {
   font-family: "Noto Sans KR", "Pretendard", Arial, sans-serif;
-  background: #47c366;
-  color: #427d4c;
+  background: #18213f;
+  color: #bfc2ec;
   line-height: 1.7;
 }
 
@@ -29,9 +29,9 @@ header {
   position: sticky;
   top: 0;
   z-index: 50;
-  background: rgba(247, 9, 9, 0.88);
+  background: rgba(26, 26, 36, 0.88);
   backdrop-filter: blur(14px);
-  border-bottom: 1px solid #e2e8f0;
+  border-bottom: 1px solid #202327;
 }
 
 .nav {
@@ -67,7 +67,7 @@ header {
 .hero {
   position: relative;
   overflow: hidden;
-  background: linear-gradient(135deg, #319324, #4b76ed);
+  background: linear-gradient(135deg, #393a41, #4b76ed);
   color: white;
 }
 
